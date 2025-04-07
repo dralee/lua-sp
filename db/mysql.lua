@@ -9,7 +9,7 @@ luarocks install luasql-odbc
 
 --]]
 
-require("luasql.mysql")
+luasql = require("luasql.mysql")
 
 -- 环境
 env = luasql.mysql()
