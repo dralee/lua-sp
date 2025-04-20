@@ -1,0 +1,48 @@
+[
+  {
+    "filename": "/home/dralee/d/flow-tv//师兄啊师兄/S01E82.2160p.WEB-DL.H265.AAC.mp4",
+    "id": 1,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//沧元图/S02E48.2160p.HQ.WEB-DL.H265.AAC.mp4",
+    "id": 2,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//火凤燎原/S02E12.2160p.WEB-DL.H265.AAC.mp4",
+    "id": 3,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//少年歌行/S04E13.2025.2160p.WEB-DL.H265.AAC.mp4",
+    "id": 4,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//哪吒2.mp4",
+    "current": true,
+    "id": 5,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//笑林小子2：新乌龙院 (1994) 1080p AAC.mp4",
+    "id": 6,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//笑林小子3无敌反斗星.mp4",
+    "id": 7,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//唐探1900.mp4",
+    "id": 8,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  },
+  {
+    "filename": "/home/dralee/d/flow-tv//笑林小子 (1994) 1080p AAC.mp4",
+    "id": 9,
+    "playlist-path": "/home/dralee/.config/mpv/flow-tv/playlist.m3u8"
+  }
+]
