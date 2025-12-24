@@ -10,7 +10,7 @@ function List.insert(node, value)
     return node
 end
 
-function traverse(head)
+function List.traverse(head)
     while head do
         print(head.data)
         head = head.next
@@ -26,4 +26,4 @@ list = List.insert(list, "to")
 list = List.insert(list, "meet")
 
 -- traverse the list
-traverse(list)
+List.traverse(list)
